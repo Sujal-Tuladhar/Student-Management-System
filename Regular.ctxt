@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Regular
+comment0.text=\n\ The\ following\ is\ Regular\ class\ i.e.\ a\ child\ class\ also\ known\ as\ sub\ class.\n\ Regular\ class\ inherits\ the\ properties\ of\ Student\ class.\n\ consist\ of\ attributes,constructor,accessor\ method,mutator\ method\ \n\ a\ method\ to\ display\ PresentPercentage,GrantCertificate\ and\ \ all\ the\ infromation\ of\ student\ \n\ @author\ (Sujal\ Tuladhar)\n\ @version\ (5.0.1a)\n
+comment1.params=dateOfBirth\ studentName\ courseDuration\ tutionFee\ enrollmentID\ courseName\ dateOfEnrollment\ numOfModules\ numOfCreditHours\ daysPresent
+comment1.target=Regular(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ double)
+comment1.text=constructor\ accepts\ ten\ parameter\:dateOfBirth,studentName,courseDuration,tutionFee,enrollmentID,courseName,dateOfEnrollment,numOfModules,numOfCreditHours,daysPresent
+comment2.params=
+comment2.target=int\ getnumOfModules()
+comment3.params=
+comment3.target=int\ getnumOfCreditHours()
+comment4.params=
+comment4.target=double\ getdaysPresent()
+comment5.params=
+comment5.target=boolean\ getisGrantedScholarship()
+comment6.params=daysPresent
+comment6.target=char\ presentPercentage(double)
+comment6.text=Creating\ \ a\ method\ PresentPercentage()\ which\ accepts\ the\ parameter\ DaysPresent
+comment7.params=courseName\ enrollmentID\ dateOfEnrollment
+comment7.target=void\ grantCertificate(java.lang.String,\ int,\ java.lang.String)
+comment7.text=Creating\ a\ method\ GranteCertificate()\ which\ has\ three\ parameters\:\ courseName,enrollmentID,dateofEnrollment
+comment8.params=
+comment8.target=void\ display()
+numComments=9

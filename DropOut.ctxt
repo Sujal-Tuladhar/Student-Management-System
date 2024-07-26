@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=DropOut
+comment0.text=\n\ This\ following\ is\ DropOut\ Class\ which\ serve\ as\ a\ child\ class,also\ known\ as\ sub\ class\n\ DropOut\ inherits\ properties\ of\ Student\ class.\n\ consist\ of\ attributes,constructor,accessor\ method,mutator\ method\n\ a\ method\ for\ billspayable,removeStudent\ and\ a\ method\ to\ display\ all\ student\ information.\n\ @author\ (Sujal\ Tuladhar)\n\ @version\ (5.0.1A)\n
+comment1.params=dateOfBirth\ studentName\ courseDuration\ tutionFee\ numOfRemainingModules\ numOfMonthsAttended\ dateOfDropOut\ enrollmentID\ dateOfEnrollment\ courseName
+comment1.target=DropOut(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String)
+comment1.text=Constructor\ accepts\ seven\ parameter
+comment2.params=
+comment2.target=int\ getnumOfRemainingModules()
+comment3.params=
+comment3.target=int\ getnumOfMonthsAttended()
+comment4.params=
+comment4.target=java.lang.String\ getdateOfDropOut()
+comment5.params=
+comment5.target=int\ getremainingAmount()
+comment6.params=
+comment6.target=boolean\ gethasPaid()
+comment7.params=
+comment7.target=void\ billsPayable()
+comment8.params=
+comment8.target=void\ removeStudent()
+comment9.params=
+comment9.target=void\ display()
+numComments=10

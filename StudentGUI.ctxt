@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=StudentGUI
+comment1.params=
+comment1.target=StudentGUI()
+comment2.params=
+comment2.target=void\ student()
+comment3.params=
+comment3.target=void\ regular()
+comment4.params=
+comment4.target=void\ dropOut()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
